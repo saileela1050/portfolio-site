@@ -22,7 +22,6 @@ This is a responsive and elegant **portfolio website** built using **HTML, CSS, 
 
 
 
-e.
 
 ## 🙋‍♀️ Author
 
