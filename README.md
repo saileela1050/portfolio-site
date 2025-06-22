@@ -20,14 +20,9 @@ This is a responsive and elegant **portfolio website** built using **HTML, CSS, 
 
 🔗 [View Portfolio Live](https://saileela1050.github.io/portfolio-site/)
 
-## 📁 Folder Structure
 
 
-## 📷 Preview
-
-![Portfolio Screenshot](https://via.placeholder.com/1000x500?text=Your+Portfolio+Preview+Image)
-
-> You can replace the placeholder image with an actual screenshot of your live website.
+e.
 
 ## 🙋‍♀️ Author
 
